@@ -9,9 +9,6 @@ Quyil is a music collection management application that allows users to browse, 
 - Usage
 - Components
 - API Endpoints
-- Contributing
-- License
-- Code Snippet
 
 ## Features
 
