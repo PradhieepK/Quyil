@@ -27,12 +27,14 @@ Quyil is a music collection management application that allows users to browse, 
    git clone https://github.com/PradhieepK/Quyil.git -> cd Quyil
 
 2. Install dependencies:
-   npm install
+   - npm install
+   - If json-server is not installed, then install json-server using following command: npm install -g json-server
+   - npx json-server --watch json-server/db.json --port 4000
 
-3. Start the development server:
+4. Start the development server:
    npm run dev
 
-4. Usage
+5. Usage
    - Open your browser and navigate to http://localhost:5173.
    - Browse the music collections on the main page.
    - Use the search bar to find specific collections by name.
