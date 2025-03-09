@@ -24,7 +24,7 @@ Quyil is a music collection management application that allows users to browse, 
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/quyil.git pk0005
+   git clone https://github.com/PradhieepK/Quyil.git
    cd quyil
 
 2. Install dependencies:
