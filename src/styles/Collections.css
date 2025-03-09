@@ -1,0 +1,130 @@
+body {
+  /* common for all the components */
+  background-color: #F5F8FA;
+  margin: 0px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.overview-title-container {
+  background-color: #FFFFFF;
+  padding-left: 24px;
+  height: 68px;
+}
+
+.overview-title {
+  font-weight: 500;
+  font-size: 25px;
+  color: #29313A;
+  padding-top: 20px;
+}
+
+.collection-table-container {
+  background-color: #FFFFFF;
+  margin-left: 24px;
+  margin-right: 24px;
+  margin-top: 25px;
+  border-radius: 8px;
+  border: 1px;
+  border-style: solid;
+  border-color: #E6ECF0;
+}
+
+.collection-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: white;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.search-filter-options {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.search-bar-container {
+  margin-bottom: 0;
+  position: relative;
+  max-width: 300px;
+}
+
+.search-bar {
+  width: 310px;
+  border-style: solid;
+  border-color: #C2CAD3;
+  border-radius: 4px;
+  border-width: 1.2px;
+  height: 34px;
+  padding-left: 10px;
+  margin: 7px 0px 7px 7px;
+}
+
+.search-bar::placeholder {
+  color: #C2CAD3;
+}
+
+.search-icon {
+  position: absolute;
+  top: 50%;
+  right: -18px;
+  transform: translateY(-50%);
+}
+
+.type-filter {
+  flex-shrink: 0;
+  padding-left: 40px;
+}
+
+.collection-table-heading {
+  font-weight: 500;
+  font-style: normal;
+  font-size: 13px;
+  line-height: 26px;
+  color: #29313A;
+  border-bottom: 1px solid #C2CAD3;
+
+}
+
+.collection-table-heading th {
+  padding-left: 14px;
+  letter-spacing: 0.5px;
+  text-align: left;
+}
+
+.collection-table-container th {
+  padding: 10px;
+}
+
+.collection-table-container td {
+  border-bottom: 1px solid #E1E4E9;
+  padding: 13px 30px 13px 14px;
+  text-align: left;
+  font-size: 12px;
+  line-height: 21px;
+  color: #29313A;
+}
+
+.collection-table-second-row {
+  color: #677A90;
+
+}
+
+.view-details-btn {
+  background-color: #ffffff;
+  color: #025992;
+  border: none;
+  padding: 8px 10px;
+  cursor: pointer;
+  border-radius: 7px;
+  display: flex;
+  align-items: center;
+}
+
+.view-details-btn:hover {
+  background-color: #EBF5FF;
+}
+
+.view-details-btn img {
+  margin-right: 5px;
+}

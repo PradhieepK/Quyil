@@ -1,0 +1,510 @@
+{
+    "collections": [
+      {
+        "id": "1",
+        "name": "EPIC: The Troy Saga (Official Concept Album)",
+        "artist": "Jorge Rivera-Herrans",
+        "type": "EP",
+        "songCount": 5,
+        "durationInSeconds": 1500,
+        "sizeInBytes": 24244225,
+        "releasedOn": "2024-09-03T14:35:00Z",
+        "songs": [
+          {
+            "title": "The Battle of Troy",
+            "durationInSeconds": 300,
+            "sizeInBytes": 4848845,
+            "performers": ["Jorge Rivera-Herrans", "Cast of EPIC: The Musical"]
+
+          },
+          {
+            "title": "The Siege",
+            "durationInSeconds": 300,
+            "sizeInBytes": 4848845,
+            "performers": ["Jorge Rivera-Herrans", "Cast of EPIC: The Musical"]
+          },
+          {
+            "title": "The Fall",
+            "durationInSeconds": 300,
+            "sizeInBytes": 4848845,
+            "performers": ["Jorge Rivera-Herrans", "Cast of EPIC: The Musical"]
+          },
+          {
+            "title": "The Escape",
+            "durationInSeconds": 300,
+            "sizeInBytes": 4848845,
+            "performers": ["Jorge Rivera-Herrans", "Cast of EPIC: The Musical"]
+          },
+          {
+            "title": "The Return",
+            "durationInSeconds": 300,
+            "sizeInBytes": 4848845,
+            "performers": ["Jorge Rivera-Herrans", "Cast of EPIC: The Musical"]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "EPIC: The Ocean Saga (Official Concept Album)",
+        "artist": "Jorge Rivera-Herrans",
+        "type": "EP",
+        "songCount": 4,
+        "durationInSeconds": 1028,
+        "sizeInBytes": 484434354,  
+        "releasedOn": "2024-09-03T14:35:00Z",
+        "songs": [
+          {
+            "title": "Storm",
+            "durationInSeconds": 186,
+            "sizeInBytes": 48488666,
+            "performers": ["Jorge Rivera-Herrans","Cast of EPIC: The Musical"]
+          },
+          {
+            "title": "Luck Runs Out",
+            "durationInSeconds": 234,
+            "sizeInBytes": 48488666,
+            "performers": ["Jorge Rivera-Herrans","Cast of EPIC: The Musical"]
+          },
+          {
+            "title": "Keep your friends close",
+            "durationInSeconds": 285,
+            "sizeInBytes": 48488666,
+            "performers": ["Jorge Rivera-Herrans","Cast of EPIC: The Musical"]
+          },
+          {
+            "title": "Ruthlessness",
+            "durationInSeconds": 323,
+            "sizeInBytes": 48488666,
+            "performers": ["Jorge Rivera-Herrans","Cast of EPIC: The Musical"]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Shape of You",
+        "artist": "Ed Sheeran",
+        "type": "Single",
+        "songCount": 1,
+        "durationInSeconds": 254,
+        "sizeInBytes": 60000000,
+        "releasedOn": "2017-09-03T14:35:00Z",
+        "songs": [
+          {
+            "title": "Shape of you",
+            "durationInSeconds": 254,
+            "sizeInBytes": 60000000,
+            "performers": ["Ed Sheeran"]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Thriller",
+        "artist": "Michael Jackson",
+        "type": "Album",
+        "songCount": 9,
+        "durationInSeconds": 2580,
+        "sizeInBytes": 580000000,
+        "releasedOn": "1982-11-30T00:00:00Z",
+        "songs": [
+          {
+            "title": "Wanna Be Startin' Somethin'",
+            "durationInSeconds": 362,
+            "sizeInBytes": 82000000,
+            "performers": ["Michael Jackson"]
+          },
+          {
+            "title": "Baby Be Mine",
+            "durationInSeconds": 260,
+            "sizeInBytes": 59000000,
+            "performers": ["Michael Jackson"]
+          },
+          {
+            "title": "The Girl Is Mine",
+            "durationInSeconds": 225,
+            "sizeInBytes": 51000000,
+            "performers": ["Michael Jackson", "Paul McCartney"]
+          },
+          {
+            "title": "Thriller",
+            "durationInSeconds": 357,
+            "sizeInBytes": 81000000,
+            "performers": ["Michael Jackson"]
+          },
+          {
+            "title": "Beat It",
+            "durationInSeconds": 258,
+            "sizeInBytes": 58000000,
+            "performers": ["Michael Jackson"]
+          },
+          {
+            "title": "Billie Jean",
+            "durationInSeconds": 294,
+            "sizeInBytes": 66000000,
+            "performers": ["Michael Jackson"]
+          },
+          {
+            "title": "Human Nature",
+            "durationInSeconds": 245,
+            "sizeInBytes": 55000000,
+            "performers": ["Michael Jackson"]
+          },
+          {
+            "title": "P.Y.T. (Pretty Young Thing)",
+            "durationInSeconds": 239,
+            "sizeInBytes": 54000000,
+            "performers": ["Michael Jackson"]
+          },
+          {
+            "title": "The Lady in My Life",
+            "durationInSeconds": 240,
+            "sizeInBytes": 54000000,
+            "performers": ["Michael Jackson"]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Blinding Lights",
+        "artist": "The Weeknd",
+        "type": "Single",
+        "songCount": 1,
+        "durationInSeconds": 200,
+        "sizeInBytes": 50000000,
+        "releasedOn": "2019-11-29T00:00:00Z",
+        "songs": [
+          {
+            "title": "Blinding Lights",
+            "durationInSeconds": 200,
+            "sizeInBytes": 50000000,
+            "performers": ["The Weeknd"]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "name": "Back to Black",
+        "artist": "Amy Winehouse",
+        "type": "Album",
+        "songCount": 11,
+        "durationInSeconds": 2100,
+        "sizeInBytes": 470000000,
+        "releasedOn": "2006-10-27T00:00:00Z",
+        "songs": [
+          {
+            "title": "Rehab",
+            "durationInSeconds": 213,
+            "sizeInBytes": 48000000,
+            "performers": ["Amy Winehouse"]
+          },
+          {
+            "title": "You Know I'm No Good",
+            "durationInSeconds": 224,
+            "sizeInBytes": 50000000,
+            "performers": ["Amy Winehouse"]
+          },
+          {
+            "title": "Me & Mr Jones",
+            "durationInSeconds": 148,
+            "sizeInBytes": 33000000,
+            "performers": ["Amy Winehouse"]
+          },
+          {
+            "title": "Just Friends",
+            "durationInSeconds": 205,
+            "sizeInBytes": 46000000,
+            "performers": ["Amy Winehouse"]
+          },
+          {
+            "title": "Back to Black",
+            "durationInSeconds": 240,
+            "sizeInBytes": 54000000,
+            "performers": ["Amy Winehouse"]
+          },
+          {
+            "title": "Love Is a Losing Game",
+            "durationInSeconds": 162,
+            "sizeInBytes": 36000000,
+            "performers": ["Amy Winehouse"]
+          },
+          {
+            "title": "Tears Dry on Their Own",
+            "durationInSeconds": 180,
+            "sizeInBytes": 40000000,
+            "performers": ["Amy Winehouse"]
+          },
+          {
+            "title": "Wake Up Alone",
+            "durationInSeconds": 230,
+            "sizeInBytes": 52000000,
+            "performers": ["Amy Winehouse"]
+          },
+          {
+            "title": "Some Unholy War",
+            "durationInSeconds": 157,
+            "sizeInBytes": 35000000,
+            "performers": ["Amy Winehouse"]
+          },
+          {
+            "title": "He Can Only Hold Her",
+            "durationInSeconds": 170,
+            "sizeInBytes": 38000000,
+            "performers": ["Amy Winehouse"]
+          },
+          {
+            "title": "Addicted",
+            "durationInSeconds": 171,
+            "sizeInBytes": 38000000,
+            "performers": ["Amy Winehouse"]
+          }
+        ]
+      },
+      
+      {
+        "id": "7",
+        "name": "EPIC: The Rise of Heroes (Official Concept Album)",
+        "artist": "Jorge Rivera-Herrans",
+        "type": "EP",
+        "songCount": 5,
+        "durationInSeconds": 1300,
+        "sizeInBytes": 310000000,
+        "releasedOn": "2025-11-05T15:00:00Z",
+        "songs": [
+          {
+            "title": "Heroes",
+            "durationInSeconds": 250,
+            "sizeInBytes": 60000000,
+            "performers": ["Jorge Rivera-Herrans", "Cast of EPIC: The Musical"]
+          },
+          {
+            "title": "Courage",
+            "durationInSeconds": 300,
+            "sizeInBytes": 70000000,
+            "performers": ["Jorge Rivera-Herrans", "Cast of EPIC: The Musical"]
+          },
+          {
+            "title": "Unity",
+            "durationInSeconds": 250,
+            "sizeInBytes": 60000000,
+            "performers": ["Jorge Rivera-Herrans", "Cast of EPIC: The Musical"]
+          },
+          {
+            "title": "Strength",
+            "durationInSeconds": 250,
+            "sizeInBytes": 60000000,
+            "performers": ["Jorge Rivera-Herrans", "Cast of EPIC: The Musical"]
+          },
+          {
+            "title": "Victory",
+            "durationInSeconds": 250,
+            "sizeInBytes": 60000000,
+            "performers": ["Jorge Rivera-Herrans", "Cast of EPIC: The Musical"]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "name": "EPIC: The Final Chapter (Official Concept Album)",
+        "artist": "Jorge Rivera-Herrans",
+        "type": "EP",
+        "songCount": 6,
+        "durationInSeconds": 1400,
+        "sizeInBytes": 365000000,
+        "releasedOn": "2025-06-20T12:00:00Z",
+        "songs": [
+          {
+            "title": "Awakening",
+            "durationInSeconds": 220,
+            "sizeInBytes": 55000000,
+            "performers": ["Jorge Rivera-Herrans", "Cast of EPIC: The Musical"]
+          },
+          {
+            "title": "Revenge",
+            "durationInSeconds": 260,
+            "sizeInBytes": 60000000,
+            "performers": ["Jorge Rivera-Herrans", "Cast of EPIC: The Musical"]
+          },
+          {
+            "title": "Sacrifice",
+            "durationInSeconds": 280,
+            "sizeInBytes": 65000000,
+            "performers": ["Jorge Rivera-Herrans", "Cast of EPIC: The Musical"]
+          },
+          {
+            "title": "Redemption",
+            "durationInSeconds": 240,
+            "sizeInBytes": 60000000,
+            "performers": ["Jorge Rivera-Herrans", "Cast of EPIC: The Musical"]
+          },
+          {
+            "title": "Legacy",
+            "durationInSeconds": 200,
+            "sizeInBytes": 50000000,
+            "performers": ["Jorge Rivera-Herrans", "Cast of EPIC: The Musical"]
+          },
+          {
+            "title": "Epilogue",
+            "durationInSeconds": 200,
+            "sizeInBytes": 65000000,
+            "performers": ["Jorge Rivera-Herrans", "Cast of EPIC: The Musical"]
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "name": "Uptown Funk",
+        "artist": "Mark Ronson ft. Bruno Mars",
+        "type": "Single",
+        "songCount": 1,
+        "durationInSeconds": 270,
+        "sizeInBytes": 65000000,
+        "releasedOn": "2014-11-10T00:00:00Z",
+        "songs": [
+          {
+            "title": "Uptown Funk",
+            "durationInSeconds": 270,
+            "sizeInBytes": 65000000,
+            "performers": ["Mark Ronson", "Bruno Mars"]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "name": "Rolling in the Deep",
+        "artist": "Adele",
+        "type": "Single",
+        "songCount": 1,
+        "durationInSeconds": 228,
+        "sizeInBytes": 55000000,
+        "releasedOn": "2010-11-29T00:00:00Z",
+        "songs": [
+          {
+            "title": "Rolling in the Deep",
+            "durationInSeconds": 228,
+            "sizeInBytes": 55000000,
+            "performers": ["Adele"]
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "name": "25",
+        "artist": "Adele",
+        "type": "Album",
+        "songCount": 11,
+        "durationInSeconds": 2920,
+        "sizeInBytes": 650000000,
+        "releasedOn": "2015-11-20T00:00:00Z",
+        "songs": [
+          {
+            "title": "Hello",
+            "durationInSeconds": 295,
+            "sizeInBytes": 65000000,
+            "performers": ["Adele"]
+          },
+          {
+            "title": "Send My Love (To Your New Lover)",
+            "durationInSeconds": 223,
+            "sizeInBytes": 50000000,
+            "performers": ["Adele"]
+          },
+          {
+            "title": "I Miss You",
+            "durationInSeconds": 347,
+            "sizeInBytes": 75000000,
+            "performers": ["Adele"]
+          },
+          {
+            "title": "When We Were Young",
+            "durationInSeconds": 285,
+            "sizeInBytes": 60000000,
+            "performers": ["Adele"]
+          },
+          {
+            "title": "Remedy",
+            "durationInSeconds": 246,
+            "sizeInBytes": 52000000,
+            "performers": ["Adele"]
+          },
+          {
+            "title": "Water Under the Bridge",
+            "durationInSeconds": 240,
+            "sizeInBytes": 51000000,
+            "performers": ["Adele"]
+          },
+          {
+            "title": "River Lea",
+            "durationInSeconds": 231,
+            "sizeInBytes": 49000000,
+            "performers": ["Adele"]
+          },
+          {
+            "title": "Love in the Dark",
+            "durationInSeconds": 285,
+            "sizeInBytes": 60000000,
+            "performers": ["Adele"]
+          },
+          {
+            "title": "Million Years Ago",
+            "durationInSeconds": 228,
+            "sizeInBytes": 48000000,
+            "performers": ["Adele"]
+          },
+          {
+            "title": "All I Ask",
+            "durationInSeconds": 272,
+            "sizeInBytes": 57000000,
+            "performers": ["Adele"]
+          },
+          {
+            "title": "Sweetest Devotion",
+            "durationInSeconds": 268,
+            "sizeInBytes": 56000000,
+            "performers": ["Adele"]
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "name": "EPIC: The Journey Continues (Official Concept Album)",
+        "artist": "Jorge Rivera-Herrans",
+        "type": "EP",
+        "songCount": 5,
+        "durationInSeconds": 1200,
+        "sizeInBytes": 285000000,
+        "releasedOn": "2025-01-15T10:00:00Z",
+        "songs": [
+          {
+            "title": "Voyage",
+            "durationInSeconds": 200,
+            "sizeInBytes": 50000000,
+            "performers": ["Jorge Rivera-Herrans", "Cast of EPIC: The Musical"]
+          },
+          {
+            "title": "Battle Cry",
+            "durationInSeconds": 250,
+            "sizeInBytes": 60000000,
+            "performers": ["Jorge Rivera-Herrans", "Cast of EPIC: The Musical"]
+          },
+          {
+            "title": "Hope",
+            "durationInSeconds": 300,
+            "sizeInBytes": 70000000,
+            "performers": ["Jorge Rivera-Herrans", "Cast of EPIC: The Musical"]
+          },
+          {
+            "title": "Despair",
+            "durationInSeconds": 150,
+            "sizeInBytes": 40000000,
+            "performers": ["Jorge Rivera-Herrans", "Cast of EPIC: The Musical"]
+          },
+          {
+            "title": "Triumph",
+            "durationInSeconds": 300,
+            "sizeInBytes": 65000000,
+            "performers": ["Jorge Rivera-Herrans", "Cast of EPIC: The Musical"]
+          }
+        ]
+      }
+    ]
+  }
