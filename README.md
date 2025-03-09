@@ -24,7 +24,8 @@ Quyil is a music collection management application that allows users to browse, 
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/PradhieepK/Quyil.git -> cd Quyil
+   - git clone https://github.com/PradhieepK/Quyil.git
+   - cd Quyil
 
 2. Install dependencies:
    - npm install
@@ -32,7 +33,7 @@ Quyil is a music collection management application that allows users to browse, 
    - npx json-server --watch json-server/db.json --port 4000
 
 4. Start the development server:
-   npm run dev
+   - npm run dev
 
 5. Usage
    - Open your browser and navigate to http://localhost:5173.
@@ -43,11 +44,11 @@ Quyil is a music collection management application that allows users to browse, 
 
 ## Components
 
-1. Collections: Main component that displays the list of music collections.
-2. CollectionDetails: Component for displaying detailed information about a specific collection.
-3. TypeFilter: Component for filtering collections by type.
+- Collections: Main component that displays the list of music collections.
+- CollectionDetails: Component for displaying detailed information about a specific collection.
+- TypeFilter: Component for filtering collections by type.
 
 ## API Endpoints
 
-1. GET /collections: Fetch all music collections.
-2. GET /collections/:id: Fetch details of a specific collection.
+- GET /collections: Fetch all music collections.
+- GET /collections/:id: Fetch details of a specific collection.
